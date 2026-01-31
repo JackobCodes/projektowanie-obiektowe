@@ -1,8 +1,5 @@
-using projektowanie_obiektowe.Lab1.Zadanie1;
-using projektowanie_obiektowe.Lab1.Zadanie2;
-using projektowanie_obiektowe.Lab1.Zadanie3;
-using projektowanie_obiektowe.Lab1.Zadanie4;
-using projektowanie_obiektowe.Lab1.Zadanie5;
+using projektowanie_obiektowe.Lab1;
+using projektowanie_obiektowe.Lab2;
 
 namespace projektowanie_obiektowe;
 
@@ -14,40 +11,35 @@ class Program
         
         while (running)
         {
-            Console.WriteLine("\n=== MENU GŁÓWNE - LAB 1 ===");
-            Console.WriteLine("1. Obliczanie wyróżnika delta i pierwiastków trójmianu kwadratowego");
-            Console.WriteLine("2. Operacje na tablicy 10 liczb");
-            Console.WriteLine("3. Wyświetlanie liczb od 20 do 0 z wyłączeniami");
-            Console.WriteLine("4. Wprowadzanie liczb w pętli nieskończonej");
-            Console.WriteLine("5. Sortowanie tablicy n liczb");
-            Console.WriteLine("0. Wyjście");
-            Console.Write("\nWybierz zadanie (0-5): ");
+            Console.Clear();
+            Console.WriteLine("\n########## Programowanie w C# ##########");
+            Console.WriteLine();
+            Console.WriteLine("Którą pracę chcesz zobaczyć?");
+            Console.WriteLine();
+            Console.WriteLine("1. Lab 1 - podstawowe rzeczy w C#");
+            Console.WriteLine("2. Lab 2 - klasy i obiekty");
+            Console.WriteLine("0. Wyjdź");
+            Console.WriteLine();
+            Console.Write("Wybierz: ");
             
             string? wybor = Console.ReadLine();
             
             switch (wybor)
             {
                 case "1":
-                    TrojmianKwadratowy.Wykonaj();
+                    ProgramLab1.Uruchom();
                     break;
                 case "2":
-                    OperacjeNaTablicy.Wykonaj();
-                    break;
-                case "3":
-                    LiczbyZWylaczeniami.Wykonaj();
-                    break;
-                case "4":
-                    PetlaNieskonczona.Wykonaj();
-                    break;
-                case "5":
-                    SortowanieTablicy.Wykonaj();
+                    ProgramLab2.Uruchom();
                     break;
                 case "0":
                     running = false;
-                    Console.WriteLine("Do widzenia!");
+                    Console.WriteLine("\nPa!");
                     break;
                 default:
-                    Console.WriteLine("Nieprawidłowy wybór. Spróbuj ponownie.");
+                    Console.WriteLine("\nHm, nie ma takiej opcji. Spróbuj jeszcze raz.");
+                    Console.WriteLine("Naciśnij coś...");
+                    Console.ReadKey();
                     break;
             }
         }
