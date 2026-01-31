@@ -1,0 +1,15 @@
+/Users/jakublewicki/RiderProjects/projektowanie-obiektowe/projektowanie-obiektowe/bin/Debug/net9.0/projektowanie-obiektowe
+/Users/jakublewicki/RiderProjects/projektowanie-obiektowe/projektowanie-obiektowe/bin/Debug/net9.0/projektowanie-obiektowe.deps.json
+/Users/jakublewicki/RiderProjects/projektowanie-obiektowe/projektowanie-obiektowe/bin/Debug/net9.0/projektowanie-obiektowe.runtimeconfig.json
+/Users/jakublewicki/RiderProjects/projektowanie-obiektowe/projektowanie-obiektowe/bin/Debug/net9.0/projektowanie-obiektowe.dll
+/Users/jakublewicki/RiderProjects/projektowanie-obiektowe/projektowanie-obiektowe/bin/Debug/net9.0/projektowanie-obiektowe.pdb
+/Users/jakublewicki/RiderProjects/projektowanie-obiektowe/projektowanie-obiektowe/obj/Debug/net9.0/projektowanie-obiektowe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakublewicki/RiderProjects/projektowanie-obiektowe/projektowanie-obiektowe/obj/Debug/net9.0/projektowanie-obiektowe.AssemblyInfoInputs.cache
+/Users/jakublewicki/RiderProjects/projektowanie-obiektowe/projektowanie-obiektowe/obj/Debug/net9.0/projektowanie-obiektowe.AssemblyInfo.cs
+/Users/jakublewicki/RiderProjects/projektowanie-obiektowe/projektowanie-obiektowe/obj/Debug/net9.0/projektowanie-obiektowe.csproj.CoreCompileInputs.cache
+/Users/jakublewicki/RiderProjects/projektowanie-obiektowe/projektowanie-obiektowe/obj/Debug/net9.0/projektowanie-obiektowe.sourcelink.json
+/Users/jakublewicki/RiderProjects/projektowanie-obiektowe/projektowanie-obiektowe/obj/Debug/net9.0/projektowanie-obiektowe.dll
+/Users/jakublewicki/RiderProjects/projektowanie-obiektowe/projektowanie-obiektowe/obj/Debug/net9.0/refint/projektowanie-obiektowe.dll
+/Users/jakublewicki/RiderProjects/projektowanie-obiektowe/projektowanie-obiektowe/obj/Debug/net9.0/projektowanie-obiektowe.pdb
+/Users/jakublewicki/RiderProjects/projektowanie-obiektowe/projektowanie-obiektowe/obj/Debug/net9.0/projektowanie-obiektowe.genruntimeconfig.cache
+/Users/jakublewicki/RiderProjects/projektowanie-obiektowe/projektowanie-obiektowe/obj/Debug/net9.0/ref/projektowanie-obiektowe.dll
