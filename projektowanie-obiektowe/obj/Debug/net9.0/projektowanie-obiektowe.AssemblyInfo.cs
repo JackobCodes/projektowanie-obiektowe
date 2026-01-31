@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("projektowanie-obiektowe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1203ad602d4984e6892783026b5f040a7c1d8316")]
 [assembly: System.Reflection.AssemblyProductAttribute("projektowanie-obiektowe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("projektowanie-obiektowe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
